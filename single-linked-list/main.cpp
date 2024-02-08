@@ -2,7 +2,8 @@
 
 #include "single-linked-list.h"
 
-// Эта функция проверяет работу класса SingleLinkedList
+// Sprint 6: Review Version #1
+
 void Test() {
     struct DeletionSpy {
         ~DeletionSpy() {
